@@ -1,0 +1,18 @@
+﻿{
+    "name": "hello",
+    "description": "Deploy",
+    "keywords": ["hello"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "60e0367d-eb25-4061-af6d-707502e47c7d"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/ lucjiu /unhde/",
+    "stack": "container"
+}
